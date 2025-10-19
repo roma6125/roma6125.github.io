@@ -605,3 +605,4 @@ zetaglobal.net,939,RESELLER
 zetaglobal.net,998,RESELLER
 zmaticoo.com,5135063,RESELLER
 yandex.com,302446435,DIRECT
+google.com, pub-5785244695951514, DIRECT, f08c47fec0942fa0
